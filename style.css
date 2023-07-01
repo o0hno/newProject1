@@ -110,7 +110,7 @@
   .footer-link:nth-child(2) {
     margin: 0 24px;
   }
-  
+
   @media screen and (max-width: 420px) {
     .first-card-row {
       flex-direction: column;
